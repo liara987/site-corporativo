@@ -16,7 +16,7 @@ https://youtu.be/2j57fOHOlvA
 
 <h2>Página inicial Mobile</h2>
 <div align="center">
-    <img src="https://tinyurl.com/ybdg9yom" width="800px"</img>
+    <img src="https://tinyurl.com/ybdg9yom" width="300px"</img>
 </div>
 
 <h2>Página sobre</h2>
