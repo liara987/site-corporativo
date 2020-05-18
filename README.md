@@ -1,5 +1,15 @@
-<h1>Site utilizando materialize e php para salvar no banco de dados MySQL</h1>
-<a href=“https://youtu.be/2j57fOHOlvA“>Vídeo de demostração</a>
+<h1>Site utilizando Materialize, HTML, PHP e MySQL</h1>
+<h2>Para ver o video de demonstração clique AQUI <a>https://youtu.be/2j57fOHOlvA</a></h2>
+[![Everything Is AWESOME](https://tinyurl.com/y9aj4q4o)](https://youtu.be/2j57fOHOlvA "Everything Is AWESOME")
+
+
+
+<h2>Passos para instalação</h2>
+
+1. Baixe o XAMPP
+2. Coloque os arquivos na pasta htdocs
+3. Crie um banco de dados chamado financeira
+4. Pronto já ta funcionando :smile:
 
 <h2>Página inicial</h2>
 <div align="center">
