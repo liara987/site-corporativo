@@ -14,12 +14,10 @@ input[type=radio] {
 }
 
 input[type=radio]:checked + label {
-  color: #ffffff;
-  background: #1E88E5;
+  color: #1E88E5;  
 }
 
-.radio-group {
-  border: solid 3px #1E88E5;
+.radio-group {  
   display: inline-block;
   margin: 20px;
   border-radius: 10px;
