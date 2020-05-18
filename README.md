@@ -31,5 +31,5 @@ https://youtu.be/2j57fOHOlvA
 
 <h2>Página contato</h2>
 <div align="center">
-    <img src="https://tinyurl.com/yb5m3xsr" width="400px"</img>
+    <img src="https://tinyurl.com/yb5m3xsr" width="800px"</img>
 </div>
