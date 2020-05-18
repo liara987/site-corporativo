@@ -1,6 +1,6 @@
 <h1>Site utilizando Materialize, HTML, PHP e MySQL</h1>
 <h2>Para ver o video de demonstração clique no link abaixo:</h2>
-[](https://youtu.be/2j57fOHOlvA)
+https://youtu.be/2j57fOHOlvA
 
 <h2>Passos para instalação</h2>
 
