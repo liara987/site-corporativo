@@ -2,34 +2,12 @@
 <h2>Para ver o video de demonstração clique no link abaixo:</h2>
 https://youtu.be/2j57fOHOlvA
 
+
+[![Vide](https://i.ytimg.com/an_webp/2j57fOHOlvA/mqdefault_6s.webp?du=3000&sqp=CKDe64EG&rs=AOn4CLBoIi6wxmdxswos7qf70p5evX2lzQ)](https://www.youtube.com/watch?v=2j57fOHOlvA "Video")
+
 <h2>Passos para instalação</h2>
 
 1. Baixe o XAMPP
 2. Coloque os arquivos na pasta htdocs
 3. Crie um banco de dados chamado financeira
 4. Pronto já ta funcionando :smile:
-
-<h2>Página inicial</h2>
-<div align="center">
-    <img src="https://tinyurl.com/y9aj4q4o" width="800px"</img>
-</div>
-
-<h2>Página inicial Mobile</h2>
-<div align="center">
-    <img src="https://tinyurl.com/ybdg9yom" width="300px"</img>
-</div>
-
-<h2>Página sobre</h2>
-<div align="center">
-    <img src="https://tinyurl.com/y9tybz8k" width="800px"</img>
-</div>
-
-<h2>Página simulação</h2>
-<div align="center">
-    <img src="https://tinyurl.com/ydxg6fqk" width="800px"</img>
-</div>
-
-<h2>Página contato</h2>
-<div align="center">
-    <img src="https://tinyurl.com/yb5m3xsr" width="800px"</img>
-</div>
